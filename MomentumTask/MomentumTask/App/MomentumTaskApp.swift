@@ -9,10 +9,6 @@ import SwiftUI
 
 @main
 struct MomentumTaskApp: App {
-  
-
-      
-    
     var body: some Scene {
         WindowGroup {
             GitHub()
