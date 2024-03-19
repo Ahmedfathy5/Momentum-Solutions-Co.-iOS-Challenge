@@ -10,9 +10,7 @@ import SwiftUI
 @main
 struct MomentumTaskApp: App {
   
-    init() {
-        UINavigationBar.appearance().barTintColor =  UIColor.black
-    }
+
       
     
     var body: some Scene {
